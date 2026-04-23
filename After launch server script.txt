@@ -1,0 +1,4 @@
+git clone https://github.com/sunil5568/Udemy-learning-azure.git
+
+
+kind create cluster --name=k8s-demo --config=kind-config.yaml
